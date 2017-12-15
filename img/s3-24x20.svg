@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.4891534mm"
+   height="5.7612028mm"
+   viewBox="0 0 6.4891534 5.7612028"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2357"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2355" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern2315"
+       patternTransform="matrix(10,0,0,10,-8.7170759,0.23623512)" />
+    <pattern
+       inkscape:isstock="true"
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1589"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       id="linearGradient2309"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2307" />
+    </linearGradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2365"
+       gradientUnits="userSpaceOnUse"
+       x="129.97205"
+       y="156.69058">
+      <meshrow
+         id="meshrow2367">
+        <meshpatch
+           id="meshpatch2369">
+          <stop
+             path="c 2.09088,0  4.18177,0  6.27265,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2371" />
+          <stop
+             path="c 0,1.85247  0,3.70495  0,5.55742"
+             style="stop-color:#8ec8d3;stop-opacity:1"
+             id="stop2373" />
+          <stop
+             path="c -2.09088,0  -4.18177,0  -6.27265,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2375" />
+          <stop
+             path="c 0,-1.85247  0,-3.70495  0,-5.55742"
+             style="stop-color:#8ec8d3;stop-opacity:1"
+             id="stop2377" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2403"
+       x="-0.022593018"
+       width="1.045186"
+       y="-0.02559386"
+       height="1.0511878">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.058446354"
+         id="feGaussianBlur2405" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="-11.360172"
+     inkscape:cy="0.94161066"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-129.86426,-156.58331)">
+    <path
+       style="fill:#86bbc1;fill-opacity:1;stroke:url(#meshgradient2365);stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2403)"
+       d="m 133.00037,157.69215 h 0.23624 c 0.44885,-0.87084 0.89769,-0.8365 1.34654,-0.92132 0.58659,0.0749 1.06542,0.25749 1.27566,0.70871 0.47283,0.79763 0.45607,1.52531 0.0472,2.19698 l -2.66945,2.52772 -2.85845,-2.45685 c -0.59125,-1.21211 -0.36882,-1.72679 -0.0945,-2.19698 0.20707,-0.33569 0.60419,-0.61708 1.25204,-0.82683 0.79508,0.0774 1.29952,0.38728 1.46472,0.96857 z"
+       id="path2317"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>
