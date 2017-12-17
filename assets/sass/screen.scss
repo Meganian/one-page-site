@@ -659,9 +659,9 @@ body.act .navigation {
 	    position: relative;
 	    left: 50%;
 	    margin-left: -45%;
-	    	   	@media (min-width: 600px) {
-	    	   		margin-left: -20%;
-	    	   	}
+	   	@media (min-width: 600px) {
+	    	margin-left: -20%;
+	   	}
 	   	@media (min-width: 1122px) {
 	        display: inline-flex;
 	        position: static;
