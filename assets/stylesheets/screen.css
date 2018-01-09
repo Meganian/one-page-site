@@ -747,8 +747,8 @@ body.act .navigation .nav-items-list .nav-item.activeLink:before {
 }
 /* line 607, ../sass/screen.scss */
 .container .app .google-play {
-  background: url("../../img/google-98x28.png") no-repeat;
-  width: 98px;
+  background: url("../../img/googlePlayLogo.svg") no-repeat;
+  width: 100px;
   height: 28px;
 }
 
